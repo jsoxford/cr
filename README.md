@@ -6,7 +6,7 @@ slides for introduction to code retreat
 
 * housekeeping
 * about summer of hacks
-* sponsors - github haybrook (sarah?)
+* sponsors - github haybrook (sarah?) - mention drinks
 * intro to code retreat
 * game of life (gif from wikipedia)
 * (hint) repeater
